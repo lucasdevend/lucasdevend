@@ -101,5 +101,3 @@ Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médi
   ### ✍️ frase do dia por um dev!
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-<div>
-<img align="center" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFkORGIWqNXRQ/company-logo_200_200/0/1710958283160/rdsaudeoficial_logo?e=1719446400&v=beta&t=as4LDLihGcMI-F3XWsn90lwjZmEOIs106IRewin_a3Q"/>
