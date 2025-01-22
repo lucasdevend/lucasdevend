@@ -72,38 +72,7 @@ Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -124,17 +93,13 @@ Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médi
 <br/>
 <br/>
 
-### 📊 Estatísticas
+##
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-
-</p>
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamigld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&order=2" height="150" alt="languages graph"  />
+    
+  ### ✍️ frase do dia por um dev!
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+<div>
+<img align="center" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFkORGIWqNXRQ/company-logo_200_200/0/1710958283160/rdsaudeoficial_logo?e=1719446400&v=beta&t=as4LDLihGcMI-F3XWsn90lwjZmEOIs106IRewin_a3Q"/>
