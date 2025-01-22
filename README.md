@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩‍💻 Lucas Costa
 
 **`Desenvolvedora FullStack`**
 
