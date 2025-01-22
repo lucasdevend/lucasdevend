@@ -1,6 +1,6 @@
 # 🧑‍💻 Lucas Costa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lucas Costa. tenho 24 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no OCT, tenho curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE e estudo Programação na DevMedia. Sou apaixonado por tecnologia
 
