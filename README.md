@@ -1,4 +1,4 @@
-# 👩‍💻 Lucas Costa
+# 🧑‍💻 Lucas Costa
 
 **`Desenvolvedora FullStack`**
 
