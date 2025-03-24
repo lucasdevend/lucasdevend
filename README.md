@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médio no OCT, tenho curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE e estudo Programação na DevMedia. Sou apaixonado por tecnologia
+Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médio no OCT, tenho curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE e estudo Programação na DevMedia. Sou apaixonado por tecnologia, Estudo Inglês pela Udemy e Arquitetura de Redes pela Udemy.
 
 ---
 
@@ -50,27 +50,11 @@ Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médi
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <img 
