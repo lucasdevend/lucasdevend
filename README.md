@@ -4,8 +4,6 @@
 
 Me chamo Lucas Costa. tenho 24 anos e sou natural de SP. Concluí o ensino médio no OCT, tenho curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE e estudo Programação na DevMedia. Sou apaixonado por tecnologia, Estudo Inglês pela Udemy e Arquitetura de Redes pela Udemy.
 
-# 👨‍💻 Lucas Silva – Portfólio de Cibersegurança (Blue Team & OSINT)
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em cibersegurança.  
 🔐 Apaixonado por defesa digital, inteligência e análise de ameaças.
 
