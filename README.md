@@ -36,5 +36,5 @@ Construir experiência prática em cibersegurança (especialmente Blue Team e OS
 
 ## 📬 Contato
 
-- 📧 Email: lucas.silva@email.com
-- 💼 LinkedIn: [linkedin.com/in/lucasads](https://linkedin.com/in/seuperfil)
+- 📧 Email: silva.lucasdev2025@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/lucas-costa-silva-514924209/)
